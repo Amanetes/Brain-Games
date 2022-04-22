@@ -1,0 +1,8 @@
+**/vendor/
+/tmp/
+/pkg/
+/coverage/
+!**/.keep
+**/*.log
+
+.DS_Store
