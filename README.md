@@ -1,6 +1,9 @@
 # Brain-Games
 Brain Games is a series of small console math games 
 
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/883df727f81f42268d8f20b754af3f20)](https://www.codacy.com/gh/Amanetes/Brain-Games/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Amanetes/Brain-Games&amp;utm_campaign=Badge_Grade)
+
 ## Games:
 
 ### 1. Brain-Even 📟
