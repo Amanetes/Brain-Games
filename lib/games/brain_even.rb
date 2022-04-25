@@ -5,7 +5,7 @@ require_relative '../engine'
 def run_even
   generate_round = lambda {
     number = rand(1..100)
-    question = number
+    question = number.to_s
     answer = number.even? ? 'yes' : 'no'
     [question, answer]
   }

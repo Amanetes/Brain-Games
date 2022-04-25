@@ -2,6 +2,8 @@
 
 require 'tty-prompt'
 require_relative '../lib/games/brain_even'
+require_relative '../lib/games/brain_gcd'
+require_relative '../lib/games/brain_prime'
 
 def start_menu
   prompt = TTY::Prompt.new(help_color: :cyan)

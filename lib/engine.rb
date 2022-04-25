@@ -17,7 +17,6 @@ def play_game(rules, game)
   prompt.say(rules)
 
   ROUND_COUNT.times do
-
     question, correct_answer = game.call
     prompt.say("Question: #{question}")
     user_answer = prompt.ask('Your answer:')
