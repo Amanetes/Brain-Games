@@ -4,5 +4,6 @@
 /coverage/
 !**/.keep
 **/*.log
+.idea/
 
 .DS_Store
