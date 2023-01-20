@@ -5,7 +5,7 @@ def make_progression
   progression_length = rand(5..10)
   initial_number = rand(0..100)
 
-  Array.new(progression_length, initial_number).each_with_index.map do |num, index|
+  Array.new(progression_length, initial_number).map.with_index do |num, index|
     num + (progression_step * index)
   end
 end
