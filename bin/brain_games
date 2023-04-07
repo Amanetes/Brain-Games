@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-require_relative '../lib/menu'
+require './lib/brain_games'
 
-start_menu
+BrainGames.start
